@@ -1,6 +1,6 @@
 # BullsAndCows
 
-# Decrription
+# Description
 
 There are a lot of error possibilities. What if someone enters an answer of the wrong length? Or the number of possible symbols is less than the length of the code? What if the answer contains invalid symbols? The game may crash before the secret number was guessed!
 
